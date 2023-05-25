@@ -1,1 +1,1 @@
-var a = "hiển thị sản phẩm";
+console.log("Đây khum là chức năng sản phẩm");
