@@ -1,1 +1,1 @@
-console.log("Đây là chức năng sản phẩm");
+var a = "hiển thị sản phẩm";
